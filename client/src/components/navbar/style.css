@@ -1,0 +1,29 @@
+.navbar {
+    background-color: #1976d2 !important;
+    /* justify-content: unset !important; */
+}
+
+.link {
+    color: #fff !important;
+}
+
+.nav-btn {
+    margin-left: 10px;
+}
+.btn-auth{
+    margin-left: 20px;
+}
+.nav-container {
+    /* height: 55px; */
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
+    top: 0;
+}
+.nav-icon {
+    width: 32px;
+    height: 32px;
+    margin: 0 10px;
+    cursor: pointer;
+}

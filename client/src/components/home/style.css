@@ -1,0 +1,29 @@
+.add-food-btn {
+    width: 100%;
+}
+
+.menu {
+    margin-top: 70px;
+    padding: 15px 0;
+    height: 350px;
+}
+
+.read-only {
+    background: inherit !important;
+    border: unset !important;
+}
+
+.menu-container {
+    width: 50%;
+    padding: 0 5px;
+}
+
+.over-limit {
+    background-color: red !important;
+}
+
+.icon {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+}
